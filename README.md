@@ -5,7 +5,7 @@ Thin Go SDK for the [ogmake](https://ogmake.com) OG image API. Standard library 
 ## Install
 
 ```sh
-go get github.com/IgorBaranov/ogmake-go   # not yet published
+go get github.com/ogmake/ogmake-go   # not yet published
 ```
 
 ## Examples
